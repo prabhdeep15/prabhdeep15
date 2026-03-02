@@ -42,10 +42,6 @@ I am a backend-focused Software Engineer with a passion for building scalable sy
 - **LeetCode:** Ranked **1838 / 24,000+** in Biweekly Contest.
 - **Problem Solving:** Successfully tackled **1000+ DSA problems**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhdeep15&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhdeep15&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhdeep15&theme=transparent&hide_border=true" />
