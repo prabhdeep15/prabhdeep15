@@ -1,69 +1,61 @@
-<h1 align="center">Prabhdeep Singh</h1>
+<h1 align="center">Hi 👋, I'm Prabhdeep Singh</h1>
 <h3 align="center">Backend Engineer | Problem Solver | Systems-Oriented Developer</h3>
 
 <p align="center">
-Software Engineer Trainee at Sopra Steria • 700+ DSA Problems Solved • LeetCode Top 10%
+  <img src="https://img.shields.io/badge/Status-Software%20Engineer%20Trainee%20@%20Sopra%20Steria-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/LeetCode-Top%2010%25-orange?style=flat-square&logo=leetcode">
+  <img src="https://img.shields.io/badge/DSA-700+%20Solved-success?style=flat-square">
 </p>
 
 ---
 
-<h3 align="left">About Me</h3>
+### 🚀 About Me
+I am a backend-focused Software Engineer with a passion for building scalable systems and solving complex algorithmic challenges.
 
-<ul>
-<li>Backend-focused Software Engineer</li>
-<li>Strong in Data Structures & Algorithms (700+ problems)</li>
-<li>LeetCode Rating: 1747 (Top 10%)</li>
-<li>Building scalable backend systems using Java & Spring Boot</li>
-<li>Strong fundamentals in DBMS, OOPs, OS, and System Design</li>
-</ul>
+- 🛠️ Currently building enterprise-level backend services at **Sopra Steria**.
+- 💡 Strong foundations in **System Design, DBMS, and OOPs**.
+- 📈 Competitive Programmer with a **1747 LeetCode Rating**.
+- 🎓 Focused on mastering Java & Spring Boot ecosystems.
 
 ---
 
-<h3 align="left">Core Technologies</h3>
+### 💻 Tech Stack
 
-<p>
-<b>Languages:</b> C++ • Java • SQL • JavaScript<br>
-<b>Backend:</b> Spring Boot • Node.js • REST APIs • Authentication Systems<br>
-<b>Databases:</b> MySQL • MongoDB<br>
-<b>Tools:</b> Git • Docker • Postman
-</p>
-
----
-
-<h3 align="left">Experience</h3>
-
-<b>Sopra Steria – Software Engineer Trainee</b>
-<ul>
-<li>Developed backend services using Java Spring Boot</li>
-<li>Optimized SQL queries to improve performance</li>
-<li>Contributed to enterprise-level systems (Airbus project)</li>
-</ul>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![REST](https://img.shields.io/badge/-REST%20APIs-000000?logo=api&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 
 ---
 
-<h3 align="left">Competitive Programming</h3>
-
-<ul>
-<li>700+ DSA problems solved</li>
-<li>Ranked 1838 / 24,000+ in LeetCode Biweekly Contest</li>
-</ul>
+### 💼 Experience
+**Sopra Steria** | *Software Engineer Trainee*
+* Developed robust backend services using **Java Spring Boot**.
+* Optimized complex **SQL queries**, significantly improving system performance.
+* Contributed to the **Airbus project**, handling enterprise-level architecture.
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
+### 🏆 Competitive Programming & Stats
+- **LeetCode:** Ranked **1838 / 24,000+** in Biweekly Contest.
+- **Problem Solving:** Successfully tackled **1000+ DSA problems**.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prabhdeep15&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhdeep15&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhdeep15&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhdeep15&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhdeep15&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhdeep15&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="left">Connect</h3>
-
-Email: prabhdeepsingh0007@gmail.com  
-Twitter: https://twitter.com/prabhdeep0007_
+### 📧 Connect with Me
+<p align="left">
+<a href="mailto:prabhdeepsingh0007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/prabhdeep0007_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
